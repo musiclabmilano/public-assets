@@ -1,7 +1,7 @@
 Inserire in questa directory le immagini da stampare sulle etichette dei bauli per tour e progetti.
 
 ### L'immagine deve obbligatoriamente rispettare le seguenti specifiche: ###
-- 102.3 x 30.8 mm
+- 103  x 31 mm
 - 300 dpi
 - formato .png
 - nome del file: <ID_PROGETTO>.png
